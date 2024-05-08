@@ -1,0 +1,26 @@
+[
+  {
+    "sercod": "18",
+    "sernom": "CUIDADOS INTENSIVOS"
+  },
+  {
+    "sercod": "21",
+    "sernom": "PISO2"
+  },
+  {
+    "sercod": "22",
+    "sernom": "PISO3"
+  },
+  {
+    "sercod": "23",
+    "sernom": "PISO4"
+  },
+  {
+    "sercod": "47",
+    "sernom": "CUIDADOS ESPECIALES"
+  },
+  {
+    "sercod": "AL",
+    "sernom": "ALTAS PENDIENTES"
+  }
+]

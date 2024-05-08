@@ -1,0 +1,39 @@
+[
+  {
+    "ubi": "R",
+    "des": "CUIDADO CRITICO",
+    "est": "Disponibles",
+    "cant": "3"
+  },
+  {
+    "ubi": "R",
+    "des": "CUIDADO CRITICO",
+    "est": "Ocupadas",
+    "cant": "21"
+  },
+  {
+    "ubi": "0",
+    "des": "HOSPITALIZACIÓN",
+    "est": "Disponibles",
+    "cant": "11"
+  },
+  {
+    "ubi": "0",
+    "des": "HOSPITALIZACIÓN",
+    "est": "Ocupadas",
+    "cant": "135"
+  },
+  {
+    "ubi": "T",
+    "des": "CLINICA",
+    "est": "Ocupadas",
+    "cant": "156"
+  },
+  {
+    "ubi": "T",
+    "des": "CLINICA",
+    "est": "Disponibles",
+    "cant": "14"
+  }
+]
+
